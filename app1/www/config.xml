@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Name is in config.xml</name>
+    <name>My First Phonegap App</name>
     <description>
-      Description of this app is also in config.xml
+     Need to figure out plugins and how it works! Also Test HTML5 / CSS3 UI stuff(or custom work!)
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
